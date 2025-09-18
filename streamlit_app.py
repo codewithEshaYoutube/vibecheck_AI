@@ -82,6 +82,7 @@ st.markdown("""
         box-shadow: 0 15px 40px rgba(131, 56, 236, 0.4);
         border-color: rgba(131, 56, 236, 0.5);
     }
+            
     
     .neon-text {
         color: #0a192ff;
