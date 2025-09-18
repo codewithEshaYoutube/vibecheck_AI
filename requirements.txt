@@ -1,1 +1,22 @@
-streamlit
+# VibeCheck AI - Streamlit Requirements
+
+# Core Streamlit
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.15.0
+
+# Optional: For enhanced NLP (if you want to add real sentiment analysis later)
+# textblob>=0.17.1
+# vaderSentiment>=3.3.2
+
+# Optional: For more advanced features
+# requests>=2.31.0
+# python-dotenv>=1.0.0
+
+# Optional: For deployment
+# gunicorn>=21.2.0
