@@ -9,7 +9,7 @@ VibeCheck AI is an **AI-powered sentiment analysis and mood visualization app** 
 
 Our mission is simple: **help communities, creators, and organizations measure the vibe in real time** — whether it’s a live event, a digital space, or social media chatter.  
 
-This project was built for **two hackathon tracks**:  
+This project was built for **two hackathon tracks**:   
 - ✅ **App Builder Track** — a production-ready app with working UI.  
 - ✅ **Multi-Agent App Track** — demonstrating orchestration of multiple agents (sentiment, context, visualization) working together via Coral Protocol.  
 
